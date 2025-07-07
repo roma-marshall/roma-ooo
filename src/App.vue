@@ -49,7 +49,7 @@
               </span>
             </p>
           </div>
-          <p>Lower Saxony, Germany <span>{{ currentTime }}</span></p>
+          <p>Rhineland-Palatinate, Germany <span>{{ currentTime }}</span></p>
         </div>
       </div>
     </div>
