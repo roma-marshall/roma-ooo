@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Profile',
-    text: ['I\'m a web developer and designer who believes in clean and simple development. Currently, I work for a digital commerce agency in Göttingen. I\'ve gained a lot of experience as a frontend developer working for different web agencies all over Germany']
+    text: ['I’m a web developer and designer who believes in clean and simple development. I’m currently open to new professional opportunities and challenges. I’ve gained extensive experience as a frontend developer working with different web agencies across Germany.']
   },
   {
     title: 'Capabilities',
