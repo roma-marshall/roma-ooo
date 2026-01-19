@@ -5,25 +5,25 @@ export default [
       {
         text: 'Blackbit digital Commerce GmbH',
         date: '2022 – 2025',
-        description: 'Clients: BTC Business Technology Consulting AG, Bikeleasing-Service GmbH, CRB Analyse Service GmbH, EXPRESSO Deutschland GmbH',
+        description: 'Selected Clients (via agency & project work): BTC Business Technology Consulting AG, Bikeleasing-Service GmbH, CRB Analyse Service GmbH, EXPRESSO Deutschland GmbH',
         link: 'https://www.blackbit.com'
       },
       {
         text: 'Upwork Inc.',
-        date: '2021 – 2024',
-        description: 'Remote Frontend Developer (vue3, pinia, tailwindcss)',
+        date: '2022 – Present',
+        description: 'Remote Frontend Developer (vue3, nuxt3, tailwindcss, pinia)',
         link: 'https://www.upwork.com',
       },
       {
         text: 'AMEFA GmbH',
         date: '2021 – 2022',
-        description: 'Full-time Frontend Developer',
+        description: 'Full-time Frontend Developer (javascript, css, bootstrap)',
         link: 'https://www.amefa-med.com',
       },
       {
         text: 'Browserwerk GmbH',
         date: '2018 – 2021',
-        description: 'Clients: NASPA Immobilen GmbH, Deutsche Lufthansa AG, KEGON AG, Degussa Bank AG, VAN HEES GmbH',
+        description: 'Selected Clients (via agency & project work): NASPA Immobilen GmbH, Deutsche Lufthansa AG, KEGON AG, Degussa Bank AG, VAN HEES GmbH',
         link: 'https://www.browserwerk.de',
       }
     ]
