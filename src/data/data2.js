@@ -10,7 +10,7 @@ export default [
       },
       {
         text: 'Upwork Inc.',
-        date: '2022 – Present',
+        date: '2022 – 2025',
         description: 'Remote Frontend Developer (vue3, nuxt3, tailwindcss, pinia)',
         link: 'https://www.upwork.com',
       },
